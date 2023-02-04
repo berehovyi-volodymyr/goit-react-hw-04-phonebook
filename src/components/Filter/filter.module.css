@@ -1,0 +1,15 @@
+.label {
+  margin-left: 20px;
+  outline: 3px solid blue;
+  padding: 20px 10px;
+}
+
+.title {
+  font-size: 20px;
+  margin-right: 10px;
+  font-weight: 500;
+}
+
+.input {
+  padding: 5px 10px;
+}
